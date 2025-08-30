@@ -1,5 +1,5 @@
 # 🌱 GreenTech Solar-Powered Portable Vacuum
-
+![overview](images/concept.png)
 ---
 
 ## Project Overview
