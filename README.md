@@ -50,3 +50,5 @@ Most electronics can be purchased from [Cytron Technologies](https://my.cytron.i
 4. The vacuum body and dustbin are 3D-printed, integrating the solar panel on its top surface.
 
 ---
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
