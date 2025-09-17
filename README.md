@@ -14,7 +14,7 @@ Key features include:
 ---
 
 ## Methodology
-![Methodology](images/methodology.png)
+![Methodology](images/image%20(8).png)
 
 ---
 
