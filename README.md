@@ -1,4 +1,5 @@
 # 🌱 GreenTech Solar-Powered Portable Vacuum
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![overview](images/concept.png)
 ---
 
@@ -49,4 +50,3 @@ Most electronics can be purchased from [Cytron Technologies](https://my.cytron.i
 3. The solar panel charges the battery via a mini MPPT controller, with LEDs indicating charging status.  
 4. The vacuum body and dustbin are 3D-printed, integrating the solar panel on its top surface.
 
----
