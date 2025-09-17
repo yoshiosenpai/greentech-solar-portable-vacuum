@@ -1,6 +1,6 @@
 # 🌱 GreenTech Solar-Powered Portable Vacuum
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-![overview](images/concept.png)
+![overview](images/image%20(8).png)
 ---
 
 ## Project Overview
@@ -15,7 +15,7 @@ Key features include:
 ---
 
 ## Methodology
-![Methodology](images/image%20(8).png)
+![Methodology](images/methodology.png)
 
 ---
 
